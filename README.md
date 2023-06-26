@@ -6,6 +6,8 @@ A simple task manager app made with Vue.js for a school assessment.
 
 First open a terminal window in the task-manager-app folder and run the following command: npm run serve
 
+If you don't have node or npm installed you can do so here: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
 This should make it so the app runs on http://localhost:8080
 
 Next, open another terminal in the task-manager-api folder and run the following command: node server.js
